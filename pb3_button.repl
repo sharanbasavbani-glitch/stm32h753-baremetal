@@ -1,0 +1,3 @@
+PB3Button: Miscellaneous.Button @ gpioPortB
+    invert: true
+    -> gpioPortB@3
